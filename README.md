@@ -1,4 +1,4 @@
-# ![Ike Nwosu Header](https://github.com/inwosu11/inwosu11/blob/2f566f090c619e223b5e1403da838fd161a306ad/header.png)
+# ![Ike Nwosu Header](https://github.com/inwosu11/inwosu11/blob/f4378747312d086363e0404243fbac28fb933286/White%20Minimalist%20Simple%20Aesthetic%20Name%20Twitter%20Header.png)
 ## Hi there 👋
 
 <!--
