@@ -4,9 +4,20 @@ Hey! I'm Ikechukwu Nwosu, but you can refer to me as Ike (eye-k).I am a Nigerian
 
 I am currently a student at Georgia State University studying Finance and Computer Information Systems with a concentration in Application Development. Feel free to contact me through LinkedIn by clicking my banner and check out some more insights about me below!
 ## 💻 Technologies & Tools
-
-## 📈 Github Stats
-
+OS| Mac
+Editor| IntelliJ
+Editor| VSCode
+Editor| Eclipse
+Editor| Replit
+Code | Python
+Code | Java
+Code | R
+Code | JavaScript
+Code | HTML & CSS
+Tools | MYSql
+Tools | Azure
+Tools | SQLLite
+Tools | ProstgreSQL
 
 
 <!--
