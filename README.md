@@ -1,4 +1,4 @@
-[![Ike Nwosu Header](https://raw.githubusercontent.com/inwosu11/inwosu11/main/gh-banner.png)]
+# [![Ike Nwosu Header](https://raw.githubusercontent.com/inwosu11/inwosu11/main/gh-banner.png)]
 ## Hi there 👋
 
 <!--
