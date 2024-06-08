@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/inwosu11/inwosu11/blob/main/Github%20header.png)]
+[![Header](https://raw.githubusercontent.com/inwosu11/inwosu11/blob/main/gh-banner.png)]
 ## Hi there 👋
 
 <!--
