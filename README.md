@@ -1,7 +1,6 @@
 # ![Ike Nwosu Header](https://github.com/inwosu11/inwosu11/blob/ad39f54dd8fe0e8372ab5dafc23baed693f9f4c5/gh-banner.png)
 ## Hi there 👋
-https://github.com/inwosu11/inwosu11/blob/ad39f54dd8fe0e8372ab5dafc23baed693f9f4c5/gh-banner.png
-https://raw.githubusercontent.com/inwosu11/inwosu11/main/gh-banner.png
+
 <!--
 **inwosu11/inwosu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
