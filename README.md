@@ -4,20 +4,21 @@ Hey! I'm Ikechukwu Nwosu, but you can refer to me as Ike (eye-k).I am a Nigerian
 
 I am currently a student at Georgia State University studying Finance and Computer Information Systems with a concentration in Application Development. Feel free to contact me through LinkedIn by clicking my banner and check out some more insights about me below!
 ## 💻 Technologies & Tools
-OS| Mac
-Editor| IntelliJ
-Editor| VSCode
-Editor| Eclipse
-Editor| Replit
-Code | Python
-Code | Java
-Code | R
-Code | JavaScript
-Code | HTML & CSS
-Tools | MYSql
-Tools | Azure
-Tools | SQLLite
-Tools | ProstgreSQL
+![Static Badge](https://img.shields.io/badge/OS-MacOS-ii?style=flat&logo=MacOS&logoColor=platinum&color=silver)
+![Static Badge](https://img.shields.io/badge/Editor-IntelliJ-ii?style=flat&logo=intellij%20idea&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Editor-VS%20Code-ii?style=flat&logo=Visual%20studio%20Code&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Editor-Eclipse-ii?style=flat&logo=Eclipse&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Editor-XCode-ii?style=flat&logo=XCode&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Editor-Replit-ii?style=flat&logo=Replit&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Code-Python-ii?style=flat&logo=Python&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Code-Java-ii?style=flat&logo=Java%20programming%20language&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Code-R-ii?style=flat&logo=R&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Code-JavaScript-ii?style=flat&logo=Javascript&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Web-HTML%20%26%20CSS-ii?style=flat&logo=Internet&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Tools-MySQL-ii?style=flat&logo=mysql&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Tools-Azure-ii?style=flat&logo=Microsoft%20Azure&logoColor=diamond&color=silver)
+![Static Badge](https://img.shields.io/badge/Tools-SqLite-ii?style=flat&logo=SQLite&logoColor=diamond&color=silver)
+
 
 
 <!--
