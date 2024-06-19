@@ -1,8 +1,8 @@
 [![Ike Nwosu Header](https://github.com/inwosu11/inwosu11/blob/f4378747312d086363e0404243fbac28fb933286/White%20Minimalist%20Simple%20Aesthetic%20Name%20Twitter%20Header.png)](https://www.linkedin.com/in/ike-nwosu/)
 ## Hey There 👋🏿
-Hey! I'm Ikechukwu Nwosu, but you can refer to me as Ike (eye-k).I am a Nigerian born and raised in the U.S., particularly in Minneapolis, MN, and Atlanta, GA. 
+Hey! I'm Ikechukwu Nwosu, but you can refer to me as Ike (eye-k). I am a Nigerian-American who was born and raised in the U.S., particularly in Minneapolis, MN, and Atlanta, GA. 
 
-I am currently a student at Georgia State University studying Finance and Computer Information Systems with a concentration in Application Development. Feel free to contact me through LinkedIn by clicking my banner and check out some more insights about me below!
+I am a student at Georgia State University studying Finance and Computer Information Systems with a concentration in Application Development. Feel free to contact me through LinkedIn by clicking my banner and check out more insights about me below!
 ## 💻 Technologies & Tools
 ![Static Badge](https://img.shields.io/badge/OS-MacOS-ii?style=flat&logo=MacOS&logoColor=platinum&color=silver)
 ![Static Badge](https://img.shields.io/badge/Editor-IntelliJ-ii?style=flat&logo=intellij%20idea&logoColor=diamond&color=silver)
